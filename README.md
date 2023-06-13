@@ -9,7 +9,7 @@
 #### 6. Generate file Users.php dan users_api.php menggunakan PyAthlon, simpan ke dalam folder appakademik
 #### 7. Generate file Users.py menggunakan PyAthlon, simpan ke dalam folder apiclient
 ![generate code in pyathlon](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/pyathlon.jpg)
-#### 8. Edit ke-3 file, lihat contoh di folder client dan web_api ini
+#### 8. Edit ke-3 file (Users.php, users_api.php, dan Users.py), lihat contoh di folder client dan web_api ini
 #### 9. Test API menggunakan Postman
 ![test login admin](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_admin.jpg)
 ![test login gagal](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_gagal.jpg)
