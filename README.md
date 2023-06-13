@@ -19,3 +19,10 @@
 ###### - Create 2 file untuk Admin : FrmAdmin1.py dan FrmAdmin2.py
 ###### - Create 2 file untuk Dosen : FrmDosen1.py dan FrmDosen2.py
 ###### - Create 2 file untuk Mahasiswa : FrmMahasiswa1.py dan FrmMahasiswa2.py
+#### 10. Jalankan Aplikasi Client (Dashboard.py)
+![dashboard](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/dashboard_sebelum_login.jpg)
+![login form](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/Login_form.jpg)
+![login gagal](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/login_gagal.jpg)
+![admin dashboard](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/admin_dashboard.jpg)
+![dosen dashboard](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/dosen_dashboard.jpg)
+![mahasiswa dashboard](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/mahasiswa_dashboard.jpg)
