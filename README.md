@@ -9,17 +9,18 @@
 #### 6. Generate file Users.php dan users_api.php menggunakan PyAthlon, simpan ke dalam folder appakademik
 #### 7. Generate file Users.py menggunakan PyAthlon, simpan ke dalam folder apiclient
 ![generate code in pyathlon](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/pyathlon.jpg)
-#### 8. Test API menggunakan Postman
+#### 8. Edit ke-3 file, lihat contoh di folder client dan web_api ini
+#### 9. Test API menggunakan Postman
 ![test login admin](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_admin.jpg)
 ![test login gagal](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_gagal.jpg)
 ![test login dosen](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_dosen.jpg)
 ![test login mahasiswa](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_mahasiswa.jpg)
-#### 9. Create file (lihat folder client): 
+#### 10. Create file (lihat folder client): 
 ###### - Dashboard.py
 ###### - Create 2 file untuk Admin : FrmAdmin1.py dan FrmAdmin2.py
 ###### - Create 2 file untuk Dosen : FrmDosen1.py dan FrmDosen2.py
 ###### - Create 2 file untuk Mahasiswa : FrmMahasiswa1.py dan FrmMahasiswa2.py
-#### 10. Jalankan Aplikasi Client (Dashboard.py)
+#### 11. Jalankan Aplikasi Client (Dashboard.py)
 ![dashboard](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/dashboard_sebelum_login.jpg)
 ![login form](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/Login_form.jpg)
 ![login gagal](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/login_gagal.jpg)
