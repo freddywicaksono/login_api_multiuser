@@ -14,7 +14,7 @@
 ![test login gagal](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_gagal.jpg)
 ![test login dosen](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_dosen.jpg)
 ![test login mahasiswa](https://github.com/freddywicaksono/login_api_multiuser/blob/main/screenshots/test_login_mahasiswa.jpg)
-#### 9. Create file: 
+#### 9. Create file (lihat folder client): 
 ###### - Dashboard.py
 ###### - Create 2 file untuk Admin : FrmAdmin1.py dan FrmAdmin2.py
 ###### - Create 2 file untuk Dosen : FrmDosen1.py dan FrmDosen2.py
